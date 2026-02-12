@@ -3,7 +3,7 @@
 ## Project Overview
 This project provides an end-to-end data pipeline and analytical suite designed for a private equity group to optimize marketing ROI and profitability across its portfolio of Consumer Packaged Goods (CPG) brands. The system transforms fragmented, unstructured Profit and Loss (P&L) data into actionable insights through automated ETL, interactive dashboards, and predictive modeling.
 
-##Core Deliverables
+## Core Deliverables
 The project is structured into four primary workstreams:
   A. Deliverable 1: AI-Powered ETL Pipeline
     - Automates the ingestion of inconsistent Excel P&L statements.
